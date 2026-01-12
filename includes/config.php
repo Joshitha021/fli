@@ -13,7 +13,7 @@ define('DB_NAME', 'flionxga_frontend');
 
 // Site configuration
 // Force canonical base URL so assets and links never point to localhost
-define('SITE_URL', 'https://flionetech.com');
+define('SITE_URL', 'http://localhost/fli');
 define('SITE_NAME', 'Flione IT');
 define('SITE_EMAIL', 'contact@flioneit.com');
 

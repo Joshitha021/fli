@@ -121,7 +121,7 @@ $testimonials = get_testimonials();
                                 <i class="fas fa-eye"></i>
                             </div>
                             <h3>Our Vision</h3>
-                            <p>To transform education by building future-ready learning ecosystems that empower every child to thrive through inspired, technology-driven experiences.</p>
+                            <p>To transform education by building future-ready learning ecosystems that empower every child to thrive through inspired, technology-driven experiences.We envision a world where learning goes beyond classrooms, fostering creativity, critical thinking, and lifelong curiosity. By integrating innovation, accessibility, and modern digital tools, we aim to create inclusive educational environments that prepare students to adapt, grow, and succeed in an ever-evolving global landscape.</p>
                             <img src="<?php echo SITE_URL; ?>/assets/images/about/vision.png" alt="FLIONE Vision" class="img-fluid rounded">
                         </div>
                     </div>
@@ -136,7 +136,7 @@ $testimonials = get_testimonials();
                                 <i class="fas fa-bullseye"></i>
                             </div>
                             <h3>Our Mission</h3>
-                            <p>To design and deliver innovative educational technologies that optimize school infrastructure, engage students, and enable educators to create nurturing, next-gen learning environments.</p>
+                            <p>To design and deliver innovative educational technologies that optimize school infrastructure, engage students, and enable educators to create nurturing, next-gen learning environments. We strive to bridge the gap between traditional education and modern skill requirements by providing engaging platforms, personalized learning experiences, and continuous support for students, educators, and institutions. Through collaboration and innovation, we are committed to nurturing confident learners who are equipped for the challenges of tomorrow.</p>
                             <img src="<?php echo SITE_URL; ?>/assets/images/about/mission.jpg" alt="FLIONE Mission" class="img-fluid rounded">
                         </div>
                     </div>
