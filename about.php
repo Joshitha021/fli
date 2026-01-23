@@ -116,13 +116,31 @@ $testimonials = get_testimonials();
             </div>
         </div>
         <div class="row justify-content-center">
+            <!-- Team Member New (Founder) -->
+            <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="50">
+                <div class="team-card">
+                    <div class="team-image">
+                        <img src="<?php echo SITE_URL; ?>/assets/images/team/founder.png" alt="Srinidhi Chilakamarri K" class="img-fluid">
+                        <div class="team-social-overlay">
+                            <a href="https://www.linkedin.com/in/srinidhi-chilakamarri-k-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                            <a href="#" class="social-icon"><i class="fas fa-envelope"></i></a>
+                        </div>
+                    </div>
+                    <div class="team-info">
+                        <h4>Srinidhi Chilakamarri K</h4>
+                        <p class="text-primary text-center mb-3 font-weight-bold team-role">Founder and CEO</p>
+                        <p>Srinidhi leads the company’s mission to transform education through purposeful technology. With experience in school ERP systems, RFID automation, robotics labs, and digital learning solutions, he focuses on building scalable, affordable, and future-ready education technologies that empower students, educators, and institutions across India.</p>
+                    </div>
+                </div>
+            </div>
             <!-- Team Member 1 -->
             <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="team-card">
                     <div class="team-image">
                         <img src="<?php echo SITE_URL; ?>/assets/images/team/person1.png" alt="Suchitha" class="img-fluid">
                         <div class="team-social-overlay">
-                            <a href="#" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="https://www.linkedin.com/in/suchitha-hs/" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
                             <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
                             <a href="#" class="social-icon"><i class="fas fa-envelope"></i></a>
                         </div>
@@ -130,7 +148,7 @@ $testimonials = get_testimonials();
                     <div class="team-info">
                         <h4>Suchitha</h4>
                         <p class="text-primary text-center mb-3 font-weight-bold team-role">Team lead</p>
-                        <p>With a vision to transform education, Suchitha leads the team with passion and expertise to build a better future for students.</p>
+                        <p>Leads the development team while designing, developing, and maintaining scalable web applications using PHP, Python, and SQL. Oversees backend architecture, ensures code quality and security, and guides the team to deliver high-performance, reliable solutions.</p>
                     </div>
                 </div>
             </div>
